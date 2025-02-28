@@ -1,5 +1,5 @@
 # SANABI
-
+![Image](https://github.com/user-attachments/assets/bf951fd0-6091-4077-9f77-2d99440f68e4)
 * 개발기간: 2024. 03. 15 ~ 2024. 04. 30
 * 개발인원: 개인
 * 사용언어 및 개발환경: DirectX9, IMGUI, HLSL, C++
